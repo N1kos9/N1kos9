@@ -3,8 +3,6 @@
 <h3 align="center">A passionated frontend developer from Romania, aiming for the full stack position in the future</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/638428/screenshots/3641004/code2.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=n1kos9&label=Profile%20views&color=0e75b6&style=flat" alt="n1kos9" /> </p>
-
 - 🔭 I’m currently working on **frontend projects strictly**
 
 - 🌱 I’m currently learning **React native**
