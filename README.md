@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
+![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
 <h1 align="center">Hi 👋, I'm Murariu Nikos</h1>
 <h3 align="center">Frontend developer from Romania</h3>
 <img align="right" alt="Coding" width="300" src="https://www.puttiapps.com/wp-content/uploads/2021/05/stats.gif">
