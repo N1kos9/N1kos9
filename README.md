@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n1kos9&label=Profile%20views&color=0e75b6&style=flat" alt="n1kos9" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/dev_nikos" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/dev_nikos?logo=twitter&style=for-the-badge" alt="https://twitter.com/dev_nikos" /></a> </p>
-
 - 🔭 I’m currently working on **frontend projects strictly**
 
 - 🌱 I’m currently learning **React native**
