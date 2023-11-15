@@ -24,5 +24,5 @@
 <div>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=n1kos9&show_icons=true&locale=en&layout=compact" alt="n1kos9" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=n1kos9&" alt="n1kos9" /></p>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=n1kos9&" alt="n1kos9" />
 </div>
