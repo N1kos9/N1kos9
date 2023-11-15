@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
 <h1 align="center">Hi 👋, I'm Murariu Nikos</h1>
-<h3 align="center">A passionated frontend developer from Romania, aiming for the full stack position in the future</h3>
+<h3 align="center">Frontend developer from Romania</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/638428/screenshots/3641004/code2.gif">
 
 - 🔭 I’m currently working on **frontend projects strictly**
