@@ -3,7 +3,7 @@
 
 <h3 align="left">Frontend developer from Romania</h3>
 
-<img align="right" alt="Coding" width="300" src="https://www.puttiapps.com/wp-content/uploads/2021/05/stats.gif">
+<img align="right" alt="Coding" width="100" src="https://www.puttiapps.com/wp-content/uploads/2021/05/stats.gif">
 
 
 - 🔭 I’m currently working on **frontend projects strictly**
