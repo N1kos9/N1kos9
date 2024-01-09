@@ -1,5 +1,5 @@
 ![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
-<h3 align="left">Hi 👋, I'm Murariu Nikos</h3>
+<h3 align="left">Hi, I'm Murariu Nikos</h3>
 <h1 align="left">Frontend developer from Romania</h1>
 
 <img align="right" alt="Coding" width="300" src="https://www.puttiapps.com/wp-content/uploads/2021/05/stats.gif">
