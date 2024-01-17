@@ -9,11 +9,7 @@
 
 - 🌱 I’m currently learning **React native**
 
-- 💬 Ask me about **Web development**
-
 - 📫 How to reach me **onkl3p@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
