@@ -5,11 +5,11 @@
 <img align="right" alt="Coding" width="300" src="https://www.puttiapps.com/wp-content/uploads/2021/05/stats.gif">
 
 
-- 🔭 I’m currently working on **frontend projects strictly**
+-  I’m currently working on **frontend projects strictly**
 
-- 🌱 I’m currently learning **React native**
+-  I’m currently learning **React native**
 
-- 📫 How to reach me **onkl3p@gmail.com**
+-  How to reach me **onkl3p@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
